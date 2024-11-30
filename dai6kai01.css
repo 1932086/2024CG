@@ -5,7 +5,7 @@ body {
 header {
     height: 120px;
     width: 810px;
-	background-color: #F7A1A2;
+    background-color: #EEF48E;
 }
 header h1 {
     height: 50px;
@@ -28,9 +28,9 @@ header p {
     margin-inline-start: 50px;
 }
 nav {
-	height: 80px;
+    height: 80px;
     width: 810px;
-	background-color: #F7F66B;
+    background-color: #F96CF1;
 }
 
 h1 {
@@ -117,6 +117,12 @@ footer {
     float: left;
 }.key {
     text-decoration: underline;
+}
+.ex1{
+	font-size:16px;
+	line-height:25px;
+}
+
 }
 .ex1{
 	font-size:16px;
